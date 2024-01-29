@@ -6,3 +6,6 @@ VBA1099PrintWizard is a user-friendly tool designed for Excel users, created to 
 Fill out the Dataset and then press this buttom.
 ![image](https://github.com/gustavomiozzo/1099NECPrintWizard/assets/106555187/6b14ca32-2fcb-4ada-b195-0772615ceed8)
 
+Subsequently, the tool will populate each row of the dataset into a 1099-NEC form, pre-filled with the dataset information.
+![image](https://github.com/gustavomiozzo/1099NECPrintWizard/assets/106555187/5e9741b3-e4b3-41ce-9d09-a52ef039271d)
+
